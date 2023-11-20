@@ -12,7 +12,7 @@ My goal was to be able to have my nav menu items link to another page of my webs
 
 ## Project Overview
 
-Idea is for the website to feature major sports leagues, as well as have relevant information about the teams. Nav Bar Menu items are fully functional and links you to different pages [slug routing]. List was displayed in card format and they were 9 NBA Teams.
+The idea is for the website to feature major sports leagues, as well as have relevant information about the teams. Nav Bar Menu items are fully functional and links you to different pages [slug routing]. List was displayed in card format and they were 9 NBA Teams.
 Footer GitHub Logo is is fully functional and links to my GitHub repository page.
 Contact page is functional, input fields with a submit button that will take you back to the homepage imitating a real successful submission on a form area on websites.
 
