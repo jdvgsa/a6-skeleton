@@ -10,6 +10,12 @@
 
 My goal was to be able to have my nav menu items link to another page of my website. I constantly got error messages saying 404 Not found, so I used the search term [How to make multiple pages with svelte], this turned out to be a terrible search term as all the top links were vague and did not give me a solution to my problems. I refined my search with the key term ["Svelte Routing"], and ["Multiple routes Svelte"]. These search terms took me to the correct links of [https://learn.svelte.dev/tutorial/params], and [https://kit.svelte.dev/docs/routing]. By reading the docs rigorously I was finally able to make my Contact, About, and Gallery section in my nav route to the appropriate locations.
 
+## Project Overview
+
+Idea is for the website to feature major sports leagues, as well as have relevant information about the teams. Nav Bar Menu items are fully functional and links you to different pages [slug routing]. List was displayed in card format and they were 9 NBA Teams.
+Footer GitHub Logo is is fully functional and links to my GitHub repository page.
+Contact page is functional, input fields with a submit button that will take you back to the homepage imitating a real successful submission on a form area on websites.
+
 ## Attributions
 
 SVG Logos were all taken from wikipedia. Here are all the links.
