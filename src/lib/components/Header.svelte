@@ -7,7 +7,7 @@
     <ul class="flex list-none m-0 p-0 gap-12">
       <li class="text-white font-bold  hover:underline cursor-pointer"><a href="/">Home</a></li>
       <li class="text-white font-bold  hover:underline cursor-pointer"><a href="/">Contact</a></li>
-      <li class="text-white font-bold  hover:underline cursor-pointer"><a href="/">About</a></li>
+      <li class="text-white font-bold  hover:underline cursor-pointer"><a href="/about/[aboutslug]">About</a></li>
       <li class= "text-white font-bold  hover:underline cursor-pointer"><a href="/[gallery]">Gallery</a><li>
       
     </ul>
