@@ -1,4 +1,4 @@
-<section class="flex justify-center justify-evenly pt-5 pb-5">
+<section class="flex justify-center justify-evenly pt-5 pb-30">
 
   <div class="max-w-xs bg-sky-950 hover:bg-violet-500 rounded-3xl p-10">
     <a href="/[gallery]">
