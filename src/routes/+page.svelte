@@ -1,6 +1,7 @@
 <script>
 import Header from "../lib/components/Header.svelte";
 import SportCards from "../lib/components/SportCards.svelte";
+import Footer from "../lib/components/Footer.svelte";
 </script>
 
 <Header />
@@ -13,4 +14,8 @@ import SportCards from "../lib/components/SportCards.svelte";
 
 <div>
 	<SportCards />
+</div>
+
+<div>
+  <Footer />
 </div>
